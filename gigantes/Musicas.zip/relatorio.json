@@ -1,0 +1,909 @@
+{
+ "v": 2,
+ "arquivo": "Músicas.zip",
+ "tamanho": 3344258695,
+ "tipo": "application/zip",
+ "dono": "bwcp8192bits",
+ "repo": "bwcp-only",
+ "branch": "main",
+ "pasta": "gigantes/Musicas.zip",
+ "partes": [
+  {
+   "n": 1,
+   "nome": "Musicas.zip_parte1",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte1",
+   "tamanho": 26214400,
+   "sha": "664844d4caa0f3d0b9abb4b86a33599aaccd46d6"
+  },
+  {
+   "n": 2,
+   "nome": "Musicas.zip_parte2",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte2",
+   "tamanho": 26214400,
+   "sha": "5a4bc51e21759feff65cd7a248db7cd9b3ab5394"
+  },
+  {
+   "n": 3,
+   "nome": "Musicas.zip_parte3",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte3",
+   "tamanho": 26214400,
+   "sha": "af8b9af395943ae936046d84223f0aebd5ecadc3"
+  },
+  {
+   "n": 4,
+   "nome": "Musicas.zip_parte4",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte4",
+   "tamanho": 26214400,
+   "sha": "3a35ca459a7a3e3f100ff0b26efa2c4731f2b9ad"
+  },
+  {
+   "n": 5,
+   "nome": "Musicas.zip_parte5",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte5",
+   "tamanho": 26214400,
+   "sha": "46353f985dea362c06c5fd580e2fdacfb666ece3"
+  },
+  {
+   "n": 6,
+   "nome": "Musicas.zip_parte6",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte6",
+   "tamanho": 26214400,
+   "sha": "8a46d48cd1fc73139f743ab8393f6541c4653823"
+  },
+  {
+   "n": 7,
+   "nome": "Musicas.zip_parte7",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte7",
+   "tamanho": 26214400,
+   "sha": "7b2085748cec7e264630a6dfe7268f4917380e43"
+  },
+  {
+   "n": 8,
+   "nome": "Musicas.zip_parte8",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte8",
+   "tamanho": 26214400,
+   "sha": "181a69b329aca294b515c93389781c48c73c9718"
+  },
+  {
+   "n": 9,
+   "nome": "Musicas.zip_parte9",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte9",
+   "tamanho": 26214400,
+   "sha": "47d0bc09fddc1bf5efa420535d4e00083e27e02b"
+  },
+  {
+   "n": 10,
+   "nome": "Musicas.zip_parte10",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte10",
+   "tamanho": 26214400,
+   "sha": "aeabbbc81055edc59a80d642a16626281065302f"
+  },
+  {
+   "n": 11,
+   "nome": "Musicas.zip_parte11",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte11",
+   "tamanho": 26214400,
+   "sha": "0853db6e681939f95a53d1bba9881ca5ed22855a"
+  },
+  {
+   "n": 12,
+   "nome": "Musicas.zip_parte12",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte12",
+   "tamanho": 26214400,
+   "sha": "58d15e020d562c93721813ef7a5b4ae9c11479e8"
+  },
+  {
+   "n": 13,
+   "nome": "Musicas.zip_parte13",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte13",
+   "tamanho": 26214400,
+   "sha": "307a2a310d1c7d631f62aad0d781cedb1b2dba9b"
+  },
+  {
+   "n": 14,
+   "nome": "Musicas.zip_parte14",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte14",
+   "tamanho": 26214400,
+   "sha": "5bba68109ad1fd8ccd7f1e7098eee1f3898e71e5"
+  },
+  {
+   "n": 15,
+   "nome": "Musicas.zip_parte15",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte15",
+   "tamanho": 26214400,
+   "sha": "f3e6b862ac4689352e7e5134629caf284b130421"
+  },
+  {
+   "n": 16,
+   "nome": "Musicas.zip_parte16",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte16",
+   "tamanho": 26214400,
+   "sha": "9098f61932a737b8fcb009a4b166b36427883ba5"
+  },
+  {
+   "n": 17,
+   "nome": "Musicas.zip_parte17",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte17",
+   "tamanho": 26214400,
+   "sha": "db4bf1b87265c4c14d9d1183a7b32c466197f3d2"
+  },
+  {
+   "n": 18,
+   "nome": "Musicas.zip_parte18",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte18",
+   "tamanho": 26214400,
+   "sha": "ca11a31973c650cd4d3d4116d7fe1f3d9a2fe932"
+  },
+  {
+   "n": 19,
+   "nome": "Musicas.zip_parte19",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte19",
+   "tamanho": 26214400,
+   "sha": "f65dc760415e39a5aa8b35dbf5d9bf5aaa95b19a"
+  },
+  {
+   "n": 20,
+   "nome": "Musicas.zip_parte20",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte20",
+   "tamanho": 26214400,
+   "sha": "d24730a424f4ed8aef9bb2fe49a35cce6a5107bf"
+  },
+  {
+   "n": 21,
+   "nome": "Musicas.zip_parte21",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte21",
+   "tamanho": 26214400,
+   "sha": "c1865cceb39b5e7be41b4adea8da42c0adcd2463"
+  },
+  {
+   "n": 22,
+   "nome": "Musicas.zip_parte22",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte22",
+   "tamanho": 26214400,
+   "sha": "14d769c044bf90e2c7dfcfaa9b49b290ee8b3294"
+  },
+  {
+   "n": 23,
+   "nome": "Musicas.zip_parte23",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte23",
+   "tamanho": 26214400,
+   "sha": "38fab55aa4b7436b94a4c9058b029489ffda36b0"
+  },
+  {
+   "n": 24,
+   "nome": "Musicas.zip_parte24",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte24",
+   "tamanho": 26214400,
+   "sha": "21564e3a62bd33f785f18d451302f3ecfd7bebca"
+  },
+  {
+   "n": 25,
+   "nome": "Musicas.zip_parte25",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte25",
+   "tamanho": 26214400,
+   "sha": "b5c3981409b5982158543dbcd46f63d2ea5052be"
+  },
+  {
+   "n": 26,
+   "nome": "Musicas.zip_parte26",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte26",
+   "tamanho": 26214400,
+   "sha": "00aac3cc775d0b7c5bd6d138ef41ea1df0efe57c"
+  },
+  {
+   "n": 27,
+   "nome": "Musicas.zip_parte27",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte27",
+   "tamanho": 26214400,
+   "sha": "6f231fa28e0bff15e6a5fcc02b0a50af64a6a821"
+  },
+  {
+   "n": 28,
+   "nome": "Musicas.zip_parte28",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte28",
+   "tamanho": 26214400,
+   "sha": "ac58c6e2c1bcd740acb08bed4013948cf5837c91"
+  },
+  {
+   "n": 29,
+   "nome": "Musicas.zip_parte29",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte29",
+   "tamanho": 26214400,
+   "sha": "424c9d5efc8651ed9f9d8ba05f45ae7bea4698e5"
+  },
+  {
+   "n": 30,
+   "nome": "Musicas.zip_parte30",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte30",
+   "tamanho": 26214400,
+   "sha": "2231fe8f5d400dcf8b9c348eb13381f6e507e92b"
+  },
+  {
+   "n": 31,
+   "nome": "Musicas.zip_parte31",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte31",
+   "tamanho": 26214400,
+   "sha": "d710f140120ed93c67a04ff742a486e44f3f264c"
+  },
+  {
+   "n": 32,
+   "nome": "Musicas.zip_parte32",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte32",
+   "tamanho": 26214400,
+   "sha": "f72adbd657110f38a68043f05a7c3b7a72eb884b"
+  },
+  {
+   "n": 33,
+   "nome": "Musicas.zip_parte33",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte33",
+   "tamanho": 26214400,
+   "sha": "55b9a15668c379359384932c8d36715abc1e93fe"
+  },
+  {
+   "n": 34,
+   "nome": "Musicas.zip_parte34",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte34",
+   "tamanho": 26214400,
+   "sha": "57fdebd0e3af9394b53df92f4140671f879d64be"
+  },
+  {
+   "n": 35,
+   "nome": "Musicas.zip_parte35",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte35",
+   "tamanho": 26214400,
+   "sha": "321b107b7066325a8256c21a764fa545f69736b8"
+  },
+  {
+   "n": 36,
+   "nome": "Musicas.zip_parte36",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte36",
+   "tamanho": 26214400,
+   "sha": "556a31c1e2109e5e7941e44621664b6cb17fb2bd"
+  },
+  {
+   "n": 37,
+   "nome": "Musicas.zip_parte37",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte37",
+   "tamanho": 26214400,
+   "sha": "326273cb617f2d587586e7b4b8de1fe22dc4fba7"
+  },
+  {
+   "n": 38,
+   "nome": "Musicas.zip_parte38",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte38",
+   "tamanho": 26214400,
+   "sha": "9f536d5e57a339b9f42e74a2a7cfd44e982683a2"
+  },
+  {
+   "n": 39,
+   "nome": "Musicas.zip_parte39",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte39",
+   "tamanho": 26214400,
+   "sha": "67be7074c8729661df92222c6ec51e826da442fd"
+  },
+  {
+   "n": 40,
+   "nome": "Musicas.zip_parte40",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte40",
+   "tamanho": 26214400,
+   "sha": "be2a91ebfa31e8966094119d5b9a159996787c1f"
+  },
+  {
+   "n": 41,
+   "nome": "Musicas.zip_parte41",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte41",
+   "tamanho": 26214400,
+   "sha": "419c55befa760a7ae73732b8e7fc5322744e55e2"
+  },
+  {
+   "n": 42,
+   "nome": "Musicas.zip_parte42",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte42",
+   "tamanho": 26214400,
+   "sha": "fd4fc2f23f02d91ef8de60cd1a29d94d89d066ea"
+  },
+  {
+   "n": 43,
+   "nome": "Musicas.zip_parte43",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte43",
+   "tamanho": 26214400,
+   "sha": "9213363f30e90fe1028ae52324f1723ec3d5d4c2"
+  },
+  {
+   "n": 44,
+   "nome": "Musicas.zip_parte44",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte44",
+   "tamanho": 26214400,
+   "sha": "eab5c56216596bf8f6835bbb32762423a78adc12"
+  },
+  {
+   "n": 45,
+   "nome": "Musicas.zip_parte45",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte45",
+   "tamanho": 26214400,
+   "sha": "a19bd33fd4af08ca44404dba9524e3839a4306af"
+  },
+  {
+   "n": 46,
+   "nome": "Musicas.zip_parte46",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte46",
+   "tamanho": 26214400,
+   "sha": "1be34ecbed08bf6ef344dc427b62e1a4adf2a047"
+  },
+  {
+   "n": 47,
+   "nome": "Musicas.zip_parte47",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte47",
+   "tamanho": 26214400,
+   "sha": "247eac1b6ece5ff61c26ef88d74360fc4b873d49"
+  },
+  {
+   "n": 48,
+   "nome": "Musicas.zip_parte48",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte48",
+   "tamanho": 26214400,
+   "sha": "7ec6caf8630df91b88ea20ba287ce459d8872515"
+  },
+  {
+   "n": 49,
+   "nome": "Musicas.zip_parte49",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte49",
+   "tamanho": 26214400,
+   "sha": "32396d1655d9e45f8d143ae85e3e7528a6799a81"
+  },
+  {
+   "n": 50,
+   "nome": "Musicas.zip_parte50",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte50",
+   "tamanho": 26214400,
+   "sha": "dfbefaa5679385d6ff8986bec1ed8df9a9a32e19"
+  },
+  {
+   "n": 51,
+   "nome": "Musicas.zip_parte51",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte51",
+   "tamanho": 26214400,
+   "sha": "3c0d4998fab878a8f27e177f7a0220f2d4a4b593"
+  },
+  {
+   "n": 52,
+   "nome": "Musicas.zip_parte52",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte52",
+   "tamanho": 26214400,
+   "sha": "44d01d59f76737ec30b61cb5c881b420edd7dd37"
+  },
+  {
+   "n": 53,
+   "nome": "Musicas.zip_parte53",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte53",
+   "tamanho": 26214400,
+   "sha": "8f0e3c492130590965a340ef79c3436ee6631f3d"
+  },
+  {
+   "n": 54,
+   "nome": "Musicas.zip_parte54",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte54",
+   "tamanho": 26214400,
+   "sha": "0ba2095d42401828c4ce4c6d0c3670d1f23a8494"
+  },
+  {
+   "n": 55,
+   "nome": "Musicas.zip_parte55",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte55",
+   "tamanho": 26214400,
+   "sha": "bfd686e1f08f3d4e6a33ac6ff3c7afe9fd976d1c"
+  },
+  {
+   "n": 56,
+   "nome": "Musicas.zip_parte56",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte56",
+   "tamanho": 26214400,
+   "sha": "09252eb60eeadd3780ae30dc9d689ad801e3197f"
+  },
+  {
+   "n": 57,
+   "nome": "Musicas.zip_parte57",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte57",
+   "tamanho": 26214400,
+   "sha": "ff1053c0bed4c4ebbfa803c692674fa6d70a57ea"
+  },
+  {
+   "n": 58,
+   "nome": "Musicas.zip_parte58",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte58",
+   "tamanho": 26214400,
+   "sha": "28855233110ded1d953599cc07778273d091b0bb"
+  },
+  {
+   "n": 59,
+   "nome": "Musicas.zip_parte59",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte59",
+   "tamanho": 26214400,
+   "sha": "c89339accf14b8650e8bbe8e99a877a798745837"
+  },
+  {
+   "n": 60,
+   "nome": "Musicas.zip_parte60",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte60",
+   "tamanho": 26214400,
+   "sha": "ba22c2e95648cd56c17d059ef422fc1a09ff11e5"
+  },
+  {
+   "n": 61,
+   "nome": "Musicas.zip_parte61",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte61",
+   "tamanho": 26214400,
+   "sha": "54cf1d7253102ae55bd516c74086a74bc1c2dfd4"
+  },
+  {
+   "n": 62,
+   "nome": "Musicas.zip_parte62",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte62",
+   "tamanho": 26214400,
+   "sha": "8641d774c8ef49d9cdaafd6d6d765ffe02741ba8"
+  },
+  {
+   "n": 63,
+   "nome": "Musicas.zip_parte63",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte63",
+   "tamanho": 26214400,
+   "sha": "617bd3aad61f6fc6918a3c411139f68a6b5d68d7"
+  },
+  {
+   "n": 64,
+   "nome": "Musicas.zip_parte64",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte64",
+   "tamanho": 26214400,
+   "sha": "af0d27ccd2b03c0a04b1fab23cd1289d174dbf5b"
+  },
+  {
+   "n": 65,
+   "nome": "Musicas.zip_parte65",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte65",
+   "tamanho": 26214400,
+   "sha": "f5a7322c16ed0ad53c7ba99818f095ce6a9900c2"
+  },
+  {
+   "n": 66,
+   "nome": "Musicas.zip_parte66",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte66",
+   "tamanho": 26214400,
+   "sha": "81f4fbed7d9d3bb3dd88442b2d6fb9754d67ae0f"
+  },
+  {
+   "n": 67,
+   "nome": "Musicas.zip_parte67",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte67",
+   "tamanho": 26214400,
+   "sha": "11bd56ad5dca9a6bdd9eebe367b9a2b5f4a05ad2"
+  },
+  {
+   "n": 68,
+   "nome": "Musicas.zip_parte68",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte68",
+   "tamanho": 26214400,
+   "sha": "e29c72039d7dc106a6a5e1427cc1623472d60a8d"
+  },
+  {
+   "n": 69,
+   "nome": "Musicas.zip_parte69",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte69",
+   "tamanho": 26214400,
+   "sha": "2149d2c487e2590b8b9c53f7d07bcdbc9fd1ee53"
+  },
+  {
+   "n": 70,
+   "nome": "Musicas.zip_parte70",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte70",
+   "tamanho": 26214400,
+   "sha": "b0d1ca8a1e7a2accc790113ce762f214011823ff"
+  },
+  {
+   "n": 71,
+   "nome": "Musicas.zip_parte71",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte71",
+   "tamanho": 26214400,
+   "sha": "5b8ba064e57b4d8ed1dfa71fc9a68fc0f6442dfc"
+  },
+  {
+   "n": 72,
+   "nome": "Musicas.zip_parte72",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte72",
+   "tamanho": 26214400,
+   "sha": "5517935388e68b1611fb0e4df2031451b5154174"
+  },
+  {
+   "n": 73,
+   "nome": "Musicas.zip_parte73",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte73",
+   "tamanho": 26214400,
+   "sha": "bc9e5c224565bf91b1e6c912495b53d40120c648"
+  },
+  {
+   "n": 74,
+   "nome": "Musicas.zip_parte74",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte74",
+   "tamanho": 26214400,
+   "sha": "c7f9133c085df0706ca0d561136845c75a23f2b8"
+  },
+  {
+   "n": 75,
+   "nome": "Musicas.zip_parte75",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte75",
+   "tamanho": 26214400,
+   "sha": "731dc01e0b299247a43445b4c5a2b8478bea207c"
+  },
+  {
+   "n": 76,
+   "nome": "Musicas.zip_parte76",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte76",
+   "tamanho": 26214400,
+   "sha": "331c6c574c066e7ad524aacb70b5213c34eb8728"
+  },
+  {
+   "n": 77,
+   "nome": "Musicas.zip_parte77",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte77",
+   "tamanho": 26214400,
+   "sha": "2dcec86185bbd3aed61ad0d2aa72fe2a296578f1"
+  },
+  {
+   "n": 78,
+   "nome": "Musicas.zip_parte78",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte78",
+   "tamanho": 26214400,
+   "sha": "0d739dc8ccdb3a830aa45c510b7a434bd07e56e8"
+  },
+  {
+   "n": 79,
+   "nome": "Musicas.zip_parte79",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte79",
+   "tamanho": 26214400,
+   "sha": "8426df6a1d5e52ab24048a673f0694a3df38ff27"
+  },
+  {
+   "n": 80,
+   "nome": "Musicas.zip_parte80",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte80",
+   "tamanho": 26214400,
+   "sha": "27b2d69cf15345523e5002a199942c552062cd5a"
+  },
+  {
+   "n": 81,
+   "nome": "Musicas.zip_parte81",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte81",
+   "tamanho": 26214400,
+   "sha": "cddf2957cee4ed6d8c6e579fab5937a4827fbd9e"
+  },
+  {
+   "n": 82,
+   "nome": "Musicas.zip_parte82",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte82",
+   "tamanho": 26214400,
+   "sha": "8e820db349bb89071917555ca8b18a0c594d49e4"
+  },
+  {
+   "n": 83,
+   "nome": "Musicas.zip_parte83",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte83",
+   "tamanho": 26214400,
+   "sha": "9c6882141b1761c7d439ae9ea83a24cd98c3179c"
+  },
+  {
+   "n": 84,
+   "nome": "Musicas.zip_parte84",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte84",
+   "tamanho": 26214400,
+   "sha": "b7018b68987dae65f294c13319714f34f02fedf7"
+  },
+  {
+   "n": 85,
+   "nome": "Musicas.zip_parte85",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte85",
+   "tamanho": 26214400,
+   "sha": "3c26663cabf6a043c925b91eb0c14e40a63ae0e9"
+  },
+  {
+   "n": 86,
+   "nome": "Musicas.zip_parte86",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte86",
+   "tamanho": 26214400,
+   "sha": "50f01f498568407909ab241ddc1ca815c3a44e43"
+  },
+  {
+   "n": 87,
+   "nome": "Musicas.zip_parte87",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte87",
+   "tamanho": 26214400,
+   "sha": "57d42f1d7a09372d37b09be55332dcd265c099c9"
+  },
+  {
+   "n": 88,
+   "nome": "Musicas.zip_parte88",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte88",
+   "tamanho": 26214400,
+   "sha": "38af438e992613befe6f0f795aa366fd911bc1b1"
+  },
+  {
+   "n": 89,
+   "nome": "Musicas.zip_parte89",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte89",
+   "tamanho": 26214400,
+   "sha": "cc4a24e04f86f611af59931c30b784f528cb836b"
+  },
+  {
+   "n": 90,
+   "nome": "Musicas.zip_parte90",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte90",
+   "tamanho": 26214400,
+   "sha": "aa639fcbe1ffe4d6c2161ea10468de48b966a709"
+  },
+  {
+   "n": 91,
+   "nome": "Musicas.zip_parte91",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte91",
+   "tamanho": 26214400,
+   "sha": "2609b4dd861100facad5a054067ef97e8a86373d"
+  },
+  {
+   "n": 92,
+   "nome": "Musicas.zip_parte92",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte92",
+   "tamanho": 26214400,
+   "sha": "9c9c7a44bfb40ab998fb1bfbd06b05c18946a1c7"
+  },
+  {
+   "n": 93,
+   "nome": "Musicas.zip_parte93",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte93",
+   "tamanho": 26214400,
+   "sha": "1dd9d6d7129956294ba04cc9b2078b121d9bfc6a"
+  },
+  {
+   "n": 94,
+   "nome": "Musicas.zip_parte94",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte94",
+   "tamanho": 26214400,
+   "sha": "10b8bc25a7b2a40706202751858408ced7e93f68"
+  },
+  {
+   "n": 95,
+   "nome": "Musicas.zip_parte95",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte95",
+   "tamanho": 26214400,
+   "sha": "d8173dfec093226a019d67cbdd3600621202c714"
+  },
+  {
+   "n": 96,
+   "nome": "Musicas.zip_parte96",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte96",
+   "tamanho": 26214400,
+   "sha": "ab83473a8b970ab4c9412703c9547924962b69e7"
+  },
+  {
+   "n": 97,
+   "nome": "Musicas.zip_parte97",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte97",
+   "tamanho": 26214400,
+   "sha": "e5a7fae82c730308cac39333192e1c83385f29b5"
+  },
+  {
+   "n": 98,
+   "nome": "Musicas.zip_parte98",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte98",
+   "tamanho": 26214400,
+   "sha": "03708508c53b05c496fd821fe47707401f02ac63"
+  },
+  {
+   "n": 99,
+   "nome": "Musicas.zip_parte99",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte99",
+   "tamanho": 26214400,
+   "sha": "e75ba2b5b7670c56d96710f1c88285799cf3b8b9"
+  },
+  {
+   "n": 100,
+   "nome": "Musicas.zip_parte100",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte100",
+   "tamanho": 26214400,
+   "sha": "4cd86faa2c26d1621ab8e1a5160c880d0ce3fff2"
+  },
+  {
+   "n": 101,
+   "nome": "Musicas.zip_parte101",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte101",
+   "tamanho": 26214400,
+   "sha": "607023dad7530ee43ced96adc1a2418fbe851e42"
+  },
+  {
+   "n": 102,
+   "nome": "Musicas.zip_parte102",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte102",
+   "tamanho": 26214400,
+   "sha": "6b1329a8f457105ef09c7dd064a21ea4d2d56ee7"
+  },
+  {
+   "n": 103,
+   "nome": "Musicas.zip_parte103",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte103",
+   "tamanho": 26214400,
+   "sha": "975e4bdf53d9cd0845fd34ca67f02907a8a3cd1f"
+  },
+  {
+   "n": 104,
+   "nome": "Musicas.zip_parte104",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte104",
+   "tamanho": 26214400,
+   "sha": "869d1e77e05af6597673bc7758cc5357dbf93c0a"
+  },
+  {
+   "n": 105,
+   "nome": "Musicas.zip_parte105",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte105",
+   "tamanho": 26214400,
+   "sha": "395dfdb221e3898ee33bf379ac81bbb83924272f"
+  },
+  {
+   "n": 106,
+   "nome": "Musicas.zip_parte106",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte106",
+   "tamanho": 26214400,
+   "sha": "098dadf69e6e4aef1856a6d54fd1bccbc571c8e0"
+  },
+  {
+   "n": 107,
+   "nome": "Musicas.zip_parte107",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte107",
+   "tamanho": 26214400,
+   "sha": "bf91dbab5c431b794a1503d5d01c7563c9591d6f"
+  },
+  {
+   "n": 108,
+   "nome": "Musicas.zip_parte108",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte108",
+   "tamanho": 26214400,
+   "sha": "60769446c17ec9d8f95bd4f22b2387e7db2fdba7"
+  },
+  {
+   "n": 109,
+   "nome": "Musicas.zip_parte109",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte109",
+   "tamanho": 26214400,
+   "sha": "dbbbe3c08c5961e8881fcea5b9d5082b06ba9094"
+  },
+  {
+   "n": 110,
+   "nome": "Musicas.zip_parte110",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte110",
+   "tamanho": 26214400,
+   "sha": "da157977d377e296d792e044c277a54d33144da5"
+  },
+  {
+   "n": 111,
+   "nome": "Musicas.zip_parte111",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte111",
+   "tamanho": 26214400,
+   "sha": "f531773a95399a4b9dcc6250027dfb05e6ab9e3e"
+  },
+  {
+   "n": 112,
+   "nome": "Musicas.zip_parte112",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte112",
+   "tamanho": 26214400,
+   "sha": "ffce2d55de20f42380173d0eda24ff309d726439"
+  },
+  {
+   "n": 113,
+   "nome": "Musicas.zip_parte113",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte113",
+   "tamanho": 26214400,
+   "sha": "2fe161f9cd79c8654c8e467140424d727f818eee"
+  },
+  {
+   "n": 114,
+   "nome": "Musicas.zip_parte114",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte114",
+   "tamanho": 26214400,
+   "sha": "9df253b88584e73304f8e86801f982d29ac737a5"
+  },
+  {
+   "n": 115,
+   "nome": "Musicas.zip_parte115",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte115",
+   "tamanho": 26214400,
+   "sha": "a3c4dec3d120c2f53456c901095d26e51d3a52f8"
+  },
+  {
+   "n": 116,
+   "nome": "Musicas.zip_parte116",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte116",
+   "tamanho": 26214400,
+   "sha": "6f0d34b8d7b4c352330792b1cd9d261c70ed90d7"
+  },
+  {
+   "n": 117,
+   "nome": "Musicas.zip_parte117",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte117",
+   "tamanho": 26214400,
+   "sha": "dd5ce05c3652556005bd7b1bf94f99ff9ee835e1"
+  },
+  {
+   "n": 118,
+   "nome": "Musicas.zip_parte118",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte118",
+   "tamanho": 26214400,
+   "sha": "92abe8e895a468261fe1fbd4758ea4f078971063"
+  },
+  {
+   "n": 119,
+   "nome": "Musicas.zip_parte119",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte119",
+   "tamanho": 26214400,
+   "sha": "b2716775fd1a7d20c0929a53fe54f8fe75871aa6"
+  },
+  {
+   "n": 120,
+   "nome": "Musicas.zip_parte120",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte120",
+   "tamanho": 26214400,
+   "sha": "147e12721f215d48b2abd0093b78dc560fcdd530"
+  },
+  {
+   "n": 121,
+   "nome": "Musicas.zip_parte121",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte121",
+   "tamanho": 26214400,
+   "sha": "9bf8bcf14d7b72ed25b5084cde274cc7b1bda82a"
+  },
+  {
+   "n": 122,
+   "nome": "Musicas.zip_parte122",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte122",
+   "tamanho": 26214400,
+   "sha": "1c5ae61a8db75cedb6caaeae764e19069f61638b"
+  },
+  {
+   "n": 123,
+   "nome": "Musicas.zip_parte123",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte123",
+   "tamanho": 26214400,
+   "sha": "975f9a69b0ca728abb019b7ce1100233bb9c0547"
+  },
+  {
+   "n": 124,
+   "nome": "Musicas.zip_parte124",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte124",
+   "tamanho": 26214400,
+   "sha": "d09ae16e581046c3fe19ff3e9e94d823cf02bf0f"
+  },
+  {
+   "n": 125,
+   "nome": "Musicas.zip_parte125",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte125",
+   "tamanho": 26214400,
+   "sha": "620e11b6c3816c21f37b6f75ec2f718feff5210b"
+  },
+  {
+   "n": 126,
+   "nome": "Musicas.zip_parte126",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte126",
+   "tamanho": 26214400,
+   "sha": "2014a71d2aa2c94b4878bfc4d0feb12f753a70e9"
+  },
+  {
+   "n": 127,
+   "nome": "Musicas.zip_parte127",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte127",
+   "tamanho": 26214400,
+   "sha": "141434bacc4b830b3d148da3e474a16f8944855f"
+  },
+  {
+   "n": 128,
+   "nome": "Musicas.zip_parte128",
+   "caminho": "gigantes/Musicas.zip/Musicas.zip_parte128",
+   "tamanho": 15029895,
+   "sha": "2deb0055373a1360a74266c6dfb6102b893b4474"
+  }
+ ],
+ "criado": "2026-11-22T23:46:12.905Z"
+}
